@@ -30,3 +30,7 @@ For further configuration (whether global or local).
 Use the help command
 
 ### `git config --help`
+
+## Open Global Configuration settings in editor
+
+### <code> git config --global -e </code>
