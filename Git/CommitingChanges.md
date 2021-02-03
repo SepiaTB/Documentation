@@ -51,3 +51,7 @@ We proceed to write a short description.
 ### Commit with short message
 
 ### <code> $ git commit -m "Short message" </code>
+
+### Uploading Changes to Github
+
+### <code> $ git push origin [localName] </code>
