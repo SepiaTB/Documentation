@@ -1,0 +1,13 @@
+
+
+- Install Router
+* npm install react-router-dom
+import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
+
+- React currency format (Render money) (Snippet in Subtotal.js amazon-clone)
+* npm i react-currency-format
+import CurrencyFormat from 'react-currency-format'
+
+
+- Funcionalidades Firebase (instalar dentro de la carpeta)
+* npm install firebase
